@@ -22,7 +22,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.example.listexample.GPSActivity"
+            android:name="com.example.listexample.webapp.MyWebAppActivity"
             android:label="Actividad A" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
