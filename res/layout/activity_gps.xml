@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+	android:orientation="vertical"
+	>
+
+   	<Button 
+   	    android:id="@+id/btnEncender"
+   	    android:layout_width="200dip"
+   	    android:layout_height="wrap_content"
+   	    android:text="Encender GPS" />
+	
+   	<Button 
+   	    android:id="@+id/btnApagar"
+   	    android:layout_width="200dip"
+   	    android:layout_height="wrap_content"
+   	    android:text="Apagar GPS"
+   	    android:background="#f00" />
+</LinearLayout>
