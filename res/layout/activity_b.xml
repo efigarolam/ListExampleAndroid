@@ -5,7 +5,7 @@
     tools:context=".MainActivity" >
 
    	<Button 
-   	    android:id="@+id/btnGoToB"
+   	    android:id="@+id/btnGoToA"
    	    android:layout_width="200dip"
    	    android:layout_height="wrap_content"
    	    android:text="Go to A"/>

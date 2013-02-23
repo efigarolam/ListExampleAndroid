@@ -8,6 +8,6 @@
    	    android:id="@+id/btnGoToB"
    	    android:layout_width="200dip"
    	    android:layout_height="wrap_content"
-   	    android:text="Go to B"/>
+   	    android:text="Go to B" />
 
 </RelativeLayout>
